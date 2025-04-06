@@ -1,0 +1,44 @@
+﻿*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    font-family:'poppins',sans-serif;
+}
+body{
+    width:100%;
+    min-height:100%;
+    background-color:white;
+}
+.warpper{
+    width:100%;
+}
+.title h1{
+    color:#fff;
+    font-size:46px;
+    font-weight:700;
+    text-transform:uppercase;
+    text-align:center;
+    padding:40px 0px;
+}
+.about{
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:50px;
+    padding:0px 50px;
+}
+.image-section{
+    width:90%;
+    height:auto;
+    width:280px;
+    border-radius:50px;
+}
+.image-section img{
+    height:200px;
+    width:280px;
+    border-radius:50px;
+    border:px solid #fff;
+    display:block;
+    margin:auto;
+}
